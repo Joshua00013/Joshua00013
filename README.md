@@ -7,6 +7,18 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/joshua-madrilejos-b4730a296/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
@@ -44,14 +56,6 @@
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="30" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="30" alt="godot logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/joshua-madrilejos-b4730a296/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
