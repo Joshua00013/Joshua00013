@@ -1,5 +1,6 @@
 
 # ✌️Hello, I'm Joshua
+Graduate at the Polytechnic University of the Philippines. 
 
 ### 🧰 Languages and Tools
 
